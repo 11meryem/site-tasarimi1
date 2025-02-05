@@ -5,3 +5,4 @@
 <img src="241218/ss.png" alt="CSS flex sayfa tasarımı">
 <img src="241218/ss2.png" alt="CSS flex sayfa tasarımı">
 </detailes>
+<h2>241218</h2>
