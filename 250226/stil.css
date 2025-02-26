@@ -1,0 +1,17 @@
+body{
+    background-image: url(res/bg2.jpg);
+    background-size: cover;
+}
+.menu .nav-link{
+    color: black;
+}
+.menu a:hover{
+    background-color: pink;
+    color: red;
+    transition: 2sn;
+}
+.card-title{
+    background-color: palevioletred;
+    color: aliceblue;
+    width: fit-content;
+}
